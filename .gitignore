@@ -1,0 +1,8 @@
+commangs
+notes
+obj/
+bin/
+Migrations/
+packages installed in the proj.txt
+.env
+appsettings.json
